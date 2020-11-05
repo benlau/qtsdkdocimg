@@ -56,7 +56,7 @@ Example:
 ```
 mkdir -p build
 cd build
-../5.15.1/build.sh
+../5.15.1/build.sh #You may modify the options inside the script.
 ```
 
 The command will fetch QtSDK from the Qt website and build the SDK and docker image.
