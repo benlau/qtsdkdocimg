@@ -30,7 +30,7 @@ Example: LINK to QuickFlux
 [quickflux/.travis.yml at master · benlau/quickflux](https://github.com/benlau/quickflux/blob/master/.travis.yml)
 
 
-3) Copy the SDK from docker image to your host computer
+3) Copy the SDK from docker image to your host computer [Optional]
 
 ```
 docker run --rm benlau/qtsdk:5.15.1 tar Ccf /opt - Qt | tar Cxf /opt -
