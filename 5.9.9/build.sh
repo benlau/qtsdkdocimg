@@ -84,7 +84,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     build-essential mesa-common-dev libjpeg-dev libpng-dev libicu-dev \
     libgl1-mesa-dev \
-    git \
+    git cmake \
     python2.7 \
     golang ca-certificates \
     && \
